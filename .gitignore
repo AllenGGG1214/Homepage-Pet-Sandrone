@@ -1,0 +1,6 @@
+Verify.exe
+*.pdb
+*.tmp
+.vs/
+bin/
+obj/
